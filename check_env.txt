@@ -1,0 +1,19 @@
+== System ==
+OK    WSL (6.6.87.2-microsoft-standard-WSL2)
+== Git ==
+OK    git version 2.43.0
+OK    user.name = Petra Tuskan
+OK    user.email = ptuskan@student.unipu.hr
+== GitHub CLI ==
+OK    gh version 2.102.0 (2026-09-30)
+OK    logged in as petra-tuskan
+== Python ==
+OK    Python 3.12
+OK    active venv: /home/petra/praktikum-petra-tuskan/.venv
+OK    requirements.txt exists
+== Repository ==
+OK    git repository: https://github.com/unipu-praktikum-razvojne-operacije/praktikum-petra-tuskan.git
+OK    .venv/ is in .gitignore
+OK    .env is in .gitignore
+
+Result: 12 OK, 0 FAILED
